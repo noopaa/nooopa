@@ -1,0 +1,6 @@
+{
+  "name": "eQuran - Platform Al-Qur'an Digital Premium",
+  "description": "Platform Al-Qur'an digital premium bernuansa luxury Islamic minimalism dengan teks Utsmani akurat, terjemahan & tafsir Kemenag, audio murottal 6 qari, auto-scroll tilawah, dan dukungan offline PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
